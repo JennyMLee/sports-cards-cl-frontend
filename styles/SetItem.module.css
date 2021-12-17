@@ -1,0 +1,33 @@
+.setItem {
+  margin: 50px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  width: 150;
+  overflow: 'hidden';
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: inline-block;
+  transition: transform 250ms;
+}
+
+.setItem:hover{
+  transform: translateY(-10px);
+  cursor: pointer;
+}
+
+.setItem Image{
+  border-radius: 12px;
+}
+
+.setItemContent {
+  text-align: center;
+  align-content: center;
+} 
+
+.setItemContent p{
+  margin-bottom: 8px;
+  color: gray;
+} 
+
+.a:focus {
+  outline: none;
+}

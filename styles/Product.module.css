@@ -1,0 +1,14 @@
+.productTitle{
+    padding: 12px;
+    text-align: center;
+    color: #2b6777;
+}
+
+.productContainer{
+    padding: 32px;
+    background-color:#c8d8e4;
+}
+
+.productSetsContainer {
+    text-align: center;
+}
